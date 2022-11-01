@@ -19,4 +19,3 @@ let Rose1 = {
       const Rose2 = new Player('1,25,4', 'Bull,Nicks,Cavaliers,Timberwolves,Pistons')
 
       console.log(Rose2)
-      
